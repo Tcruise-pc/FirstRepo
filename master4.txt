@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello there, second file the check how undo repo works! Forget to add something. Now i have added.
+=======
+Hello there, second file the check how undo repo works!
+>>>>>>> b5be5e74dcee878df6ff7507f11bd1a7069c50aa
